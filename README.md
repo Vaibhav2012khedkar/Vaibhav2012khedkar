@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vaibhav2012khedkar
-- 👀 I’m interested in watching cinema
-- 🌱 I’m currently learning programing
+- 👀 I’m interested in Web devlopment 
+- 🌱 I’m Student
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vaibhavkhedkar2012@gmail.com
+- 📫 reach me on vaibhavkhedkar2012@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
